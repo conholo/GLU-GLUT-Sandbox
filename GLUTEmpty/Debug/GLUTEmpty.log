@@ -1,0 +1,17 @@
+﻿  Application.cpp
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Math\Utility.h(19,3): warning C4091: 'static ': ignored on left of 'Utility::Random' when no variable is declared
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\Input.h(22,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\Input.h(23,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  OrbitalControls.cpp
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\Input.h(22,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\Input.h(23,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(51,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(52,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(53,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(54,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(59,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(60,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(61,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\OrbitalControls.cpp(62,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  GLUTEmpty.vcxproj -> C:\dev\Engines\GLUTEmpty\GLUTEmpty\Debug\GLUTEmpty.lib

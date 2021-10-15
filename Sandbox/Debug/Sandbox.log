@@ -1,0 +1,25 @@
+﻿  Project3Layer.cpp
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\Input.h(22,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Core\Input.h(23,37): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\GLUTEmpty\src\Math\Utility.h(19,3): warning C4091: 'static ': ignored on left of 'Utility::Random' when no variable is declared
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(45,19): warning C4244: 'return': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(67,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(75,6): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(75,6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(75,13): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(75,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(76,6): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(76,6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(76,16): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(76,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(146,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(147,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(148,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\Engines\GLUTEmpty\GLUTEmpty\Sandbox\src\Project3Layer.cpp(148,64): warning C4305: 'argument': truncation from 'double' to 'float'
+  Sandbox.vcxproj -> C:\dev\Engines\GLUTEmpty\GLUTEmpty\Debug\Sandbox.exe
+  Copying freeglut.dll into main library.
+          1 file(s) copied.
